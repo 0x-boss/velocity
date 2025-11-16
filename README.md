@@ -90,14 +90,6 @@ scene:
 - **Group‑level animations** targeting children
 - **Camera transforms** (`x`, `y`, `z`, `scale`, `rotation`)
 
-## 🎯 Examples
-
-Included example scenes demonstrate different capabilities:
-- Enhanced Bank Hack
-- Bank Hacking Simulation
-- Google Search → Website Transition
-
-Load any example from the UI or browse `public/examples`.
 
 ## 📚 Documentation
 
@@ -119,52 +111,24 @@ velocity/
 ├── docs/              # Docs, prompt guide, demo assets
 ```
 
-## 🎨 Creating Your First Scene
-
-1. Start simple with a headline and a block
-2. Add motion via a short anime step
-3. Use containers and `gap`/`padding` for layout
-4. Sequence with timeline events and delays
-5. Export with Remotion when ready
 
 ## ⚠️ Status
-
-**🚧 In active development** — may have rough edges:
+Unfortunatly I discontinued working on this project 
+**🚧Paused  development** — may have a lot of rough edges:
 - Limited motion variation/presets
 - AI may misinterpret complex prompts
-- Some fine‑grained controls are still evolving
+- The parser has a log of bugs currently 
 
 Feedback and contributions are welcome!
 
-## 🤝 Contributing
-
-See the [Contributing Guide](CONTRIBUTING.md) for:
-- Local development setup
-- Code style and conventions
-- Submitting PRs and reporting issues
-
-Open issues and discussions:
-- Issues: https://github.com/0x-boss/velocity/issues
-- Discussions: https://github.com/0x-boss/velocity/discussions
-
-## 🗺️ Roadmap
-
-- Enhanced prompt understanding
-- More animation presets/effects
-- Advanced 3D capabilities
-- Audio synchronization
-- Plugin system for custom elements
-- Cloud rendering service
-- Collaborative editing
 
 ## 🛡️ License
 
-Licensed under **GPL‑3.0** — see [LICENSE](LICENSE) for details.
+Licensed under **MIT**.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Remotion](https://remotion.dev)
 - [Anime.js](https://animejs.com)
-- React ecosystem
 
 ---
